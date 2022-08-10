@@ -35,3 +35,6 @@ for i in range(len(lst)):
 lst
 
 output = [[7, 6, 5], [4, 3], [2, 1]]
+
+
+www.patika.dev
